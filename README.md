@@ -29,10 +29,9 @@ Hello! I’m Asante Boler — a creative and driven front-end developer leveling
 
 ## Goals
 
-- Land a full-time full stack developer role in 2025
+- Land a full-time full stack developer role 
 - Launch 5+ polished portfolio projects
 - Start a dev blog or YouTube channel
-- Release digital products like templates & code snippets
 
 ---
 
